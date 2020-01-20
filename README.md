@@ -68,7 +68,7 @@ $ python manage.py runserver
 
 Here we can see some migration errors that look like this:
 
-![migration](img/migration.png)
+![migration](img/migration_error.png)
 
 We can easily fix them using the following command:
 
